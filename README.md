@@ -1,6 +1,7 @@
 Hello World!!
 
 Holaaa 👋 mi nombre es Stephanie
+
 Fullstack Developer 💻 | Ingeniero de Gas 📚 |
 
 Acerca de mi...🌱
